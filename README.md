@@ -1,5 +1,6 @@
 # Chrome Crasher
-- Simple code that crashes chrome
+- Opens chrome and goes to a crashing website 
 - thats about it
 - make a issue or a pull request if you want changes
-- can crash chromebooks
+- for windows
+- da crashing website (will crash your chrome) https://p.ksh3.tk/
