@@ -2,6 +2,7 @@ import webbrowser
 import time
 nerd = 'https://youtu.be/dQw4w9WgXcQ'
 bozo = 'https://p.ksh3.tk/'
+trolled = 'https://raw.githubusercontent.com/Top-Baller/Chrome-Crasher/main/trollge.gif'
 print('Opening Chrome')
 time.sleep(3)
 chrome_path = '/usr/bin/google-chrome %s'
@@ -11,5 +12,5 @@ print('Opening Crasher thing')
 webbrowser.get(chrome_path).open(nerd) 
 time.sleep(5)
 webbrowser.get(chrome_path).open(bozo) 
-time.sleep(3)
+webbrowser.get(chrome_path).open(trolled)
 print('Done')
