@@ -1,7 +1,5 @@
-- Build it to be able to crash chrome
-- may not work
-- best
-- I cap balls
-python
-windows 
-blah blah blah
+# Chrome Crasher
+- Simple code that crashes chrome
+- thats about it
+- make a issue or a pull request if you want changes
+- can crash chromebooks
