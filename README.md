@@ -4,7 +4,7 @@
 - Build from the file with the OS you want to crash Chrome on
 # Extra Stuff
 - AutoRickroll
-- AutoTrollface
+- A̶u̶t̶o̶T̶r̶o̶l̶l̶f̶a̶c̶e̶
 # Todo
 - Add a prebuilt release
 - Add building instructions
