@@ -10,6 +10,8 @@
   <li>I suck at coding</li>
   <li>The code sucks also</li>
   <li>I am still learning python</li>
+  <li>I really only know HTML and CSS</li>
+</ul>
 <h1><strong> Todo </strong></h1>
 <ul>
   <li>Add a prebuilt release</li>
