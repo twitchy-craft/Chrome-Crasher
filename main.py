@@ -1,7 +1,7 @@
 import webbrowser
 import time
 #uses the dev crash test thingy
-url = 'http://a/%00'
+url = 'http://a/%%30%30'
 #runs chrome
 print('Opening Chrome')
 time.sleep(3)
