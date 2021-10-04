@@ -5,3 +5,6 @@
 - da crashing website (will crash your chrome) https://p.ksh3.tk/
 # Building
 - goto https://www.devdungeon.com/content/how-build-python-source
+# todo
+- add release 
+- crash in other ways
