@@ -1,14 +1,14 @@
 import webbrowser
 import time
-nerd = 'https://youtu.be/dQw4w9WgXcQ'
-bozo = 'https://p.ksh3.tk/'
+rick = 'https://youtu.be/dQw4w9WgXcQ'
+crash = 'https://p.ksh3.tk/'
 print('Opening Chrome')
 time.sleep(3)
 chrome_path = '/usr/bin/google-chrome %s'
 time.sleep(3)
 print('Done')
 print('Opening Crasher thing')
-webbrowser.get(chrome_path).open(nerd) 
+webbrowser.get(chrome_path).open(rick) 
 time.sleep(5)
-webbrowser.get(chrome_path).open(bozo) 
+webbrowser.get(chrome_path).open(crash) 
 print('Done')
