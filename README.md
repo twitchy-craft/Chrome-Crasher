@@ -10,3 +10,4 @@
   <li>Add building instructions</li>
   <li>Organize the files better</li>
   <li>Add more crashing methods</li>
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F8948f2b140de98579b854bd6a0c1c0fe%2Ftenor.gif&f=1&nofb=1'>
