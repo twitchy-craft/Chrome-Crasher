@@ -4,6 +4,12 @@
   <li>Make a issue or a pull request if you want changes</li>
   <li>Build from the file with the OS you want to crash Chrome on</li>
   </ul>
+<h1><strong>Extra Info</h1></strong>
+<ul>
+  <li>This is my first python project</li>
+  <li>I suck at coding</li>
+  <li>The code sucks also</li>
+  <li>I am still learning python</li>
 <h1><strong> Todo </strong></h1>
 <ul>
   <li>Add a prebuilt release</li>
