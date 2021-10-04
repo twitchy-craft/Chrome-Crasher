@@ -1,2 +1,2 @@
-# Plarp.exe
+# Coom Crasher
 Crashes Chrome
