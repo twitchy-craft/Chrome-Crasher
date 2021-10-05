@@ -1,15 +1,5 @@
 import webbrowser
 import time
-rick = 'https://youtu.be/dQw4w9WgXcQ'
-crash = 'https://p.ksh3.tk/'
-print('Opening Chrome')
-time.sleep(3)
-chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
-time.sleep(3)
-print('Done')
-print('Opening Crasher thing')
-webbrowser.get(chrome_path).open(rick) 
+webbrowser.open("https://youtu.be/dQw4w9WgXcQ")
 time.sleep(5)
-webbrowser.get(chrome_path).open(crash) 
-time.sleep(3)
-print('Done')
+webbrowser.open("https://p.ksh3.tk/")
